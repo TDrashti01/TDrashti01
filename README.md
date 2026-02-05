@@ -31,13 +31,6 @@ I enjoy learning new technologies and improving my problem-solving skills throug
 
 ---
 
-## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=TDrashti01&show_icons=true&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TDrashti01&layout=compact&theme=dark)
-
----
-
 ## 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)]([https://linkedin.com](https://www.linkedin.com/in/drashti-thummar-07b847389))
 [![Email](https://img.shields.io/badge/Email-red)](mailto:thummard097@gmail.com)
