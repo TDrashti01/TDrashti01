@@ -2,7 +2,7 @@
 <h3 align="center">I'm Drashti Thummar</h3>
 
 <p align="center">
-Full-Stack Developer | Frontend Enthusiast | BCA Student
+💻 Fullstack Developer | 💡Frontend Enthusiast | 🔤 BCA Student | 🚀 Lifelong Learner
 </p>
 
 ---
@@ -28,12 +28,6 @@ I enjoy learning new technologies and improving my problem-solving skills throug
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-purple)
 ![Git](https://img.shields.io/badge/Git-black)
 ![GitHub](https://img.shields.io/badge/GitHub-black)
-
----
-
-## 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)]([https://linkedin.com](https://www.linkedin.com/in/drashti-thummar-07b847389))
-[![Email](https://img.shields.io/badge/Email-red)](mailto:thummard097@gmail.com)
 
 ---
 
