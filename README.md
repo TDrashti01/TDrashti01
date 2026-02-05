@@ -1,5 +1,3 @@
-![Banner](banner.png)
-
 <h1 align="center">Hi there 👋</h1>
 <h3 align="center">I'm Drashti Thummar</h3>
 
@@ -30,6 +28,13 @@ I enjoy learning new technologies and improving my problem-solving skills throug
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-purple)
 ![Git](https://img.shields.io/badge/Git-black)
 ![GitHub](https://img.shields.io/badge/GitHub-black)
+
+---
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TDrashti01&show_icons=true&theme=dark)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TDrashti01&show_icons=true&theme=dark&cache_seconds=1800)
 
 ---
 
