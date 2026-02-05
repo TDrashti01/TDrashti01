@@ -1,3 +1,5 @@
+![Banner](banner.png)
+
 <h1 align="center">Hi there 👋</h1>
 <h3 align="center">I'm Drashti Thummar</h3>
 
